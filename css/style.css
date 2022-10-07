@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+
+/* header */
+
+header {
+    position: absolute;
+    width: 1920px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: #FCF9F8;
+}
+
+#logo-acme {
+    position: relative;
+    width: 125px;
+    height: 57px;
+    left: 200px;
+    top: 15px;
+}
